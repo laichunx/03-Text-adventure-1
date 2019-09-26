@@ -1,0 +1,37 @@
+Name: Chun Fung Lai
+Date: 09/25
+Project: P03-Text adventure
+Peer's repository: https://github.com/AjsonZ/03-Text-adventure-1
+
+
+
+# What is something you learned by reviewing your peer's project?
+By reviewing my peer’s project, I learned a good plot of the game is important. having a good plot in Text-Adventure game attract people to play the game.
+ 
+
+# What is something you saw in your peer's project that you would like to apply to your own programming projects?
+In my peer’s project, he create a 3D action such as: jump, up, down which make the game more realistic. There are only directions in my project, so I would like to apply these action into my project too.
+ 
+
+# What suggestions would you have for your peer to improve his/her code?
+Putting more comment will help reader to read code. 
+ 
+
+# What could have been clearer or better commented?
+The actions for some of the location is not describe clearly. For example, when player wake up at the starting point. The player should be allow to walk in different direction. However, player can only do up or down.
+ 
+
+# Was there anything in the code that was confusing to you? If so, what?
+Try not to give similar game title. ‘My Game’ and ‘myGame’ make confusion. 
+ 
+
+# Does the repository contain an appropriate LICENSE?
+Yes, this repository have an appropriate LICENSE. 
+ 
+
+# What is something he/she could add to the README.md to make it more descriptive?
+The README file is descriptive, he mentioned all the location and the win, lose condition.
+
+ 
+# Pay a compliment to your peer based on the quality of his/her code.
+I like the idea and the plot of the game, it’s a wonderful project.
